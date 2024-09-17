@@ -1,2 +1,4 @@
 gcsfs
 st-files-connection
+dotenv
+google-cloud-storage
