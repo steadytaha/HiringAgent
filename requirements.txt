@@ -13,6 +13,6 @@ openai
 chromadb
 tiktoken
 protobuf
-python-magic
+python-magic==0.4.27
 python-magic-bin
 cmake
