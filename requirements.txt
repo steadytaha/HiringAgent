@@ -12,3 +12,4 @@ unstructured[pdf]
 openai
 chromadb
 tiktoken
+protobuf~=3.19.0
