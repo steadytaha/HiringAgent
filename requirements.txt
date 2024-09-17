@@ -1,3 +1,14 @@
 gcsfs
 st-files-connection
-dotenv
+python-dotenv
+langchain
+langchain-community
+langchain-pinecone
+langchain-chroma
+pinecone-client
+streamlit
+unstructured
+unstructured[pdf]
+openai
+chromadb
+tiktoken
