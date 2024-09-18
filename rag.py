@@ -99,6 +99,9 @@ def boot():
     if "messages" not in st.session_state:
         st.session_state.messages = []
     #
+    if "retriever" not in st.session_state:
+        st.session_state.retriever = None
+    #
     for message in st.session_state.messages:
         st.chat_message('human').write(message[0])
         st.chat_message('ai').write(message[1])    
