@@ -1,6 +1,6 @@
 gcsfs
 st-files-connection
-pysqlite3-binary
+pysqlite3-binary >= 3.35.0
 python-dotenv
 langchain
 langchain-community
