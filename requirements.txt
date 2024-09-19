@@ -1,2 +1,5 @@
 gcsfs
 st-files-connection
+streamlit
+google-cloud-aiplatform
+google-cloud-logging
